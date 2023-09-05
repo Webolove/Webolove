@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webolove&show_icons=true&locale=en" alt="mudit_2904" /></p>
 
-![](https://leetcard.jacoblin.cool/mudit_2904?ext=contest&theme=nord)
+[![](https://leetcard.jacoblin.cool/mudit_2904?ext=contest&theme=nord)](https://leetcode.com/mudit_2904)
