@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mudit-anand-me.onrender.com](https://mudit-anand-me.onrender.com)
 
-- 💬 Ask me about **Data structures, Algorithms, Frontend, NodeJs, MongoDB, ExpressJs,**
+- 💬 Ask me about **Data structures, Algorithms, Frontend, NodeJs, MongoDB, ExpressJs, ReactJs**
 
 - 📫 How to reach me **anandmudit2904@gmail.com**
 
