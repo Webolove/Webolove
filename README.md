@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mudit Anand</h1>
 <h3 align="center">A passionate full-stack developer and a problem solver from India</h3>
 
-- 🌱 I’m currently learning **NextJs, Redux**
+- 🌱 I’m currently learning **Web 3.0, NFT (ERC721, ERC1155)**
 
 - 👨‍💻 All of my projects are available at [https://mudit-anand-me.onrender.com](https://mudit-anand-me.onrender.com)
 
